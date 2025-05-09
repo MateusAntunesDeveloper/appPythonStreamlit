@@ -5,7 +5,7 @@ st.set_page_config(page_title="Conversor de Criptomoedas", layout="centered")
 
 st.title("🔄 Conversor de Criptomoedas")
 
-API_KEY = "___API_Key_____"
+API_KEY = "LXBzFPJ0GqUrvbe7irR8NVYt400e5aIWv6PZBkE0"
 
 pares = ["BTCUSDT", "ETHBTC", "LTCBTC", "DOGEUSDT", "BNBBTC"]
 
